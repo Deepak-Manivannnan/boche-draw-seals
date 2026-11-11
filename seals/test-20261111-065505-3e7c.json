@@ -1,0 +1,12 @@
+{
+  "drand": {
+    "chain_hash": "52db9ba70e0cc0f6eaf7803dd07447a1f5477735fd3f661792ba94600c84e971",
+    "round": 33852438
+  },
+  "draw_day": "test-20261111-065505-3e7c",
+  "fingerprint": "f55f9329acb9486ae6190ccd58c02c3ea1c77c7d21a72a70c5f64da2d61c0bb9",
+  "kind": "test",
+  "scheme": "boche-draw-v1",
+  "sealed_at": "2026-11-11T01:30:45.230888+00:00",
+  "ticket_count": 30000
+}
